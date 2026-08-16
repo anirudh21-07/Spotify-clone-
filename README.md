@@ -138,9 +138,3 @@ This project can be improved by adding:
 * 📱 Better mobile responsiveness
 * 🌐 Spotify API integration
 
-## ⚠️ Disclaimer
-
-This project is a **Spotify-inspired educational frontend project** made for learning HTML and CSS. It is not affiliated with or endorsed by Spotify.
-
-
-⭐ If you found this project useful, consider giving the repository a star!
